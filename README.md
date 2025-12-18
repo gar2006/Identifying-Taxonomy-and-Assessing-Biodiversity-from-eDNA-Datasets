@@ -75,4 +75,4 @@ Summarizes pipeline highlights and future applicability.
 15.Other Files
 Consider brief descriptions for .pkl, .json, and .pth files (“Saved model weights”, “Token vocabulary”, “Label encoder mapping”, “Config/metrics for experiments”).
 
-**If you export the notebook to a .py script, clarify its function (“Runnable training and inference pipeline”).**
+ 
